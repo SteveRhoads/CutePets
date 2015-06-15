@@ -57,3 +57,4 @@ Edit a the local .env file by adding the appropriate config values. How to get T
     3. In the task field: `rake tweet_pet`.
 7. Add your new deployment to the official list
     1. open [where.geojson](https://github.com/codeforamerica/CutePets/blob/master/where.geojson) and add your listing
+    
